@@ -16,6 +16,11 @@ The analysis answers questions such as:
 - **SciPy** (cosine distance for similarity calculation)
 - **random** for senator sampling
 
+## 📂 Files
+- `senate_votes.csv`: Dataset with senators’ votes, party, state, and names.  
+- `Week2_Votes.ipynb`: Main script with all exercises implemented.  
+- `README.md`: Project documentation (this file).  
+
 ## 📌 Results Summary
 - Exercise 1: Lincoln Chafee’s closest senator is Jeffords (VT).
 - Exercise 2: The senator who disagrees most with Rick Santorum is Feingold (WI).
